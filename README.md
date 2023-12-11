@@ -1,7 +1,7 @@
 
 ## ⭐Testimonial-Slider ⭐
 
-Course Project is React Project Build using React JS, JS, CSS, and HTML.
+Testimonial Slider Project is React Project Build using React JS, JS, CSS, and HTML.
 
 <br>
 
